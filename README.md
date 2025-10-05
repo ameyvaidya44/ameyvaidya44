@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amey Vaidya</h1>
-<h3 align="center">Passionate Computer Science student with expertise in programming, web development, and embedded systems. Skilled in problem-solving, machine learning fundamentals, and software development. Currently exploring modern DevOps practices and advancing in full-stack web development.</h3>
+<h3 align="center">Passionate Computer Science student with expertise in programming, web development, and embedded systems. Skilled in problem-solving  and software development. Currently exploring modern DevOps practices and advancing in full-stack web development.</h3>
 
 - 🔭 I’m currently working on **ByteRank**
 
