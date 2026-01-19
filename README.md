@@ -8,7 +8,7 @@
 <a href="https://twitter.com/ameyvaidya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameyvaidya_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amey-vaidya-39194525a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amey-vaidya-39194525a" height="30" width="40" /></a>
 <a href="https://instagram.com/ameyvaidya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ameyvaidya_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ameyvaidya44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ameyvaidya44" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/amey_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amey_44" height="30" width="40" /></a>
 </p>
 
